@@ -1,0 +1,24 @@
+.root {
+    position: relative;
+    display: inline-block;
+}
+
+.TriggerBtn {
+    padding: 2px;
+    background: #fff;
+    border-radius: 2px;
+    border: 1px solid #ddd;
+    line-height: 20px;
+}
+
+.ColorSpan {
+    display: inline-block;
+    width: 30px;
+    height: 20px;
+}
+
+.PickerPanel {
+    position: absolute;
+    z-index: 100;
+    top: 100% !important;
+}

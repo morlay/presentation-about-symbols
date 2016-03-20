@@ -1,0 +1,28 @@
+
+.root {
+    display: flex;
+    align-items: center;
+}
+
+.Controls {
+    flex: 1;
+}
+
+.Item {
+    display: flex;
+    align-items: center;
+}
+
+.Item * {
+    display: block;
+}
+
+.Icon {
+    flex: 2;
+    width: 50%;
+}
+
+.Text {
+    font-size: 14px;
+    margin-left: 10px;
+}

@@ -1,0 +1,15 @@
+.root {
+    display: block;
+}
+
+.root img {
+    margin: 20px;
+}
+
+.SizeDiff,
+.ColorDiff {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}

@@ -1,0 +1,15 @@
+.Icon {
+    display: inline-block;
+}
+
+.Controls {
+    text-align: left;
+}
+
+.IconList {
+    padding: 40px;
+}
+
+.Title{
+    margin: 10px 0 10px;
+}

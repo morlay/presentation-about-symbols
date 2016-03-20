@@ -1,0 +1,40 @@
+.root {
+    position: relative;
+    display: inline-block;
+    font-size: inherit;
+    box-sizing: border-box;
+    width: 1em;
+    height: 1em;
+
+    fill: white;
+}
+
+.Grid {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: inline-block;
+    line-height: 1;
+    margin: 0;
+}
+
+.Grid > svg {
+    font-size: inherit;
+    box-sizing: border-box;
+
+    width: 1em;
+    height: 1em;
+}
+
+.Grid > svg * {
+    stroke: white;
+}
+
+.Icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin: 0;
+}

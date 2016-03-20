@@ -1,0 +1,9 @@
+.idea
+.DS_STORE
+*.log*
+
+node_modules
+public
+
+__generated
+
